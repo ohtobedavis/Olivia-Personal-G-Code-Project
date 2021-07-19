@@ -1,0 +1,63 @@
+h1{
+  text-align: center;
+  font-size:64px;
+  color: olive;
+}
+
+blockquote{
+  text-align: center;
+}
+
+body{
+  background-color: orange;
+  margin: 0 auto;
+}
+
+.resources-img{
+display: block;
+width: 800px;
+margin-left: auto;
+margin-right: auto;
+border: 2px solid white;
+border-radius: 50%;
+}
+
+h2{
+  color: purple;
+}
+
+img{
+
+  position: relative;
+  bottom: -20px;
+}
+#subheading{
+  color: purple;
+  font-size: 30px;
+  padding: 10px;
+}
+.whats-next{
+  border: 2px dashed pink;
+  margin: 40px 0px;
+  padding: 30px;
+}
+#funding-matters{
+  font-weight: normal;
+  text-decoration: underline;
+}
+}
+.navbar {
+  background-color: purple;
+  width: 100%;
+  display: flex;
+}
+.nav-links{
+  padding: 0;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+.nav-item{
+  padding: 10px 15px;
+  display: inline-block;
+}
